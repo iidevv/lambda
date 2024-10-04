@@ -1,0 +1,11 @@
+{
+  "name": "lambda-delete-webp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "package": "zip -r function.zip ."
+  },
+  "author": "",
+  "license": "ISC"
+}
