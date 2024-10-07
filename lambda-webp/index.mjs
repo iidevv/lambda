@@ -11,6 +11,7 @@ const SUPPORTED_FORMATS = {
   jpg: true,
   jpeg: true,
   png: true,
+  webp: true,
 };
 
 export const handler = async (event, context) => {
